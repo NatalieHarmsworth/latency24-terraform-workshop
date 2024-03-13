@@ -1,0 +1,4 @@
+resource_group_name  = "{Resource-Group-You-Deployed}"
+storage_account_name = "{Storage-Account-You-Deployed}"
+container_name       = "tfstate"
+key                  = "dev.tfstate"
