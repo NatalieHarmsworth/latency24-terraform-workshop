@@ -1,4 +1,4 @@
-subscription_id = "########-####-####-####-############"
+subscription_id = "ee7ef8c3-5d6f-46ea-bafc-50fdddaf5355"
 location        = "australiaEast"
 naming = {
   org_code      = "lat"
