@@ -1,0 +1,4 @@
+resource_group_name  = "{theRgYouHaveBeenUsing}"
+storage_account_name = "{theAccountYouJustMade}"
+container_name       = "tfstate"
+key                  = "dev.tfstate"
